@@ -1,0 +1,15 @@
+version="ALPHA"
+tags={
+	"Alternative History"
+	"Historical"
+	"Map"
+	"Gameplay"
+	"Events"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+	"Ideologies"
+	"Military"
+}
+name="The Eagles and the Sun"
+supported_version="1.14.8"

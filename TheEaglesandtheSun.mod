@@ -1,0 +1,16 @@
+version="ALPHA"
+tags={
+	"Alternative History"
+	"Historical"
+	"Map"
+	"Gameplay"
+	"Events"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+	"Ideologies"
+	"Military"
+}
+name="The Eagles and the Sun"
+supported_version="1.14.8"
+path="C:/Users/mccre/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/TheEaglesandtheSun"

@@ -1,0 +1,21 @@
+state={
+	id=1085
+	name="STATE_1085"
+
+	history={
+		owner = KUW
+
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = KUW
+	}
+
+	provinces={
+		13458 
+	}
+	manpower=50
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	local_supplies=0.000
+}
