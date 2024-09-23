@@ -4,8 +4,7 @@ state={
 	name="STATE_863"
 
 	history={
-		owner = USA
-		add_core_of = USA
+		owner = QUE
 		add_core_of = QUE
 		victory_points = {
 			1341 1

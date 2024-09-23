@@ -3,7 +3,7 @@ state={
 	name="STATE_1131"
 
 	history={
-		owner = USA
+		owner = TEX
 		buildings = {
 			infrastructure = 2
 			10352 = {
@@ -12,7 +12,7 @@ state={
 			}
 
 		}
-		add_core_of = USA
+		add_core_of = TEX
 		victory_points = {
 			10352 1 
 		}

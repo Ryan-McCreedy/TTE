@@ -5,8 +5,7 @@ state={
 	state_category = small_island
 
 	history={
-		owner = USA
-		add_core_of = USA
+		owner = JAM
 		add_core_of = JAM
 		victory_points = {
 			13010 1

@@ -3,12 +3,11 @@ state={
 	name="STATE_1117"
 
 	history={
-		owner = USA
+		owner = CAL
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = USA
 		add_core_of = CAL
 		victory_points = {
 			941 1 

@@ -1,0 +1,35 @@
+
+state={
+	id=1156
+	name="STATE_1156"
+	manpower = 2646247
+	
+	state_category = city
+
+	history={
+		owner = TEX
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 3
+			7480 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = TEX
+		victory_points = {
+			7480 1 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+			}
+		}
+
+	}
+
+	provinces={
+		7480 10520 4756 492 11942 860 7640
+	}
+
+	local_supplies=0.0 
+}

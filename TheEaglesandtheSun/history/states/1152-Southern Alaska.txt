@@ -1,0 +1,27 @@
+
+state={
+	id=1152
+	name="STATE_1152"
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 1
+			10548 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = CAL
+
+	}
+
+	provinces={
+		4848 13091 4833 10679 12661 7884 1830 10694 13090 1135
+	}
+	manpower=27681
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=3.000
+}

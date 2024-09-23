@@ -3,7 +3,7 @@ state={
 	name="STATE_463"
 
 	history={
-		owner = USA
+		owner = ALA
 		buildings = {
 			infrastructure = 1
 			air_base = 1
@@ -25,7 +25,7 @@ state={
 	}
 
 	provinces={
-		1135 1830 4833 4848 7855 7884 10679 10694 12661 13069 13090 13091
+		7855 13069
 	}
 	manpower=50200
 	buildings_max_level_factor=1

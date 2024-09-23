@@ -9,12 +9,12 @@ state={
 	}
 
 	history={
-		owner = USA
+		owner = CAL
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = USA
+		add_core_of = CAL
 		victory_points = {
 			9616 1 
 		}
